@@ -1,16 +1,22 @@
-### Hi there 👋
+👋 Olá, eu sou a Rebeca!
 
-<!--
-**rebeca-marques/rebeca-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 Pronomes: Ela | Dela
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/rebeca-marques">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rebeca-marques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeca-marques&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
+</div>
+ 
+##  
+
+<div>
+ <a href="https://https://www.linkedin.com/in/rebeca-marques-573a46226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
+  
