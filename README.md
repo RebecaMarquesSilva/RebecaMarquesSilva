@@ -3,9 +3,9 @@
     Ela | Dela
 
 <div align="center">
-  <a href="https://github.com/rebeca-marques">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=rebeca-marques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeca-marques&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/RebecaMarquesSilva">
+  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=RebecaMarquesSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaMarquesSilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
