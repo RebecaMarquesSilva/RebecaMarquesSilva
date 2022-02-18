@@ -1,8 +1,8 @@
-👋 Olá, eu sou a Rebeca! Estou aprendendo:
+👋 Olá, eu sou a Rebeca!
 
     Ela | Dela
 
-<div> 👩‍💻 Estou aprendendo: </div>
+👩‍💻 Estou aprendendo:
 
     
 
